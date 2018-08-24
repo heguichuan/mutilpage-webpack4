@@ -1,7 +1,7 @@
 {
   "name": "vue-multi-test",
   "description": "A Vue.js project",
-  "author": "heguichuan <heguichuan@cmiot.chinamobile.com>",
+  "author": "heguichuan <heguic@126.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --hot --config build/webpack.dev.conf.js",
